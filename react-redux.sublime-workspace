@@ -1,0 +1,2307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tabe",
+				"table-cell"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"Post",
+				"PostActions"
+			],
+			[
+				"hand",
+				"handleFetchPosts"
+			],
+			[
+				"con",
+				"connectDragSource"
+			],
+			[
+				"conn",
+				"connectDropTarget"
+			],
+			[
+				"Lan",
+				"LaneActions"
+			],
+			[
+				"post",
+				"posts"
+			],
+			[
+				"Po",
+				"PostStore"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"c",
+				"create"
+			],
+			[
+				"up",
+				"updatedNote"
+			],
+			[
+				"update",
+				"updatedLane"
+			],
+			[
+				"upda",
+				"updatedLane"
+			],
+			[
+				"act",
+				"activateNoteEdit"
+			],
+			[
+				"on",
+				"onNoteClick"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"la",
+				"LaneActions"
+			],
+			[
+				"lane",
+				"laneId"
+			],
+			[
+				"dele",
+				"deleteLane"
+			],
+			[
+				"Lane",
+				"LaneHeader"
+			],
+			[
+				"L",
+				"LaneHeader"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"no",
+				"noteId"
+			],
+			[
+				"lan",
+				"laneId"
+			],
+			[
+				"Note",
+				"NoteActions"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"notes",
+				"notes"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"note",
+				"notesStore"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"Ex",
+				"ExtractTextPlugin"
+			],
+			[
+				"sto",
+				"storageName"
+			],
+			[
+				"st",
+				"storageName"
+			],
+			[
+				"Not",
+				"NoteActions"
+			],
+			[
+				"co",
+				"connect"
+			],
+			[
+				"Rea",
+				"ReactDOM"
+			],
+			[
+				"clas",
+				"classnames"
+			],
+			[
+				"class",
+				"classnames"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"Edi",
+				"Editable"
+			],
+			[
+				"Ed",
+				"Edit"
+			],
+			[
+				"e",
+				"embeddable"
+			],
+			[
+				"prev",
+				"preview_url"
+			],
+			[
+				"bo",
+				"book"
+			],
+			[
+				"in",
+				"inIframe"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"soci",
+				"socialImage"
+			],
+			[
+				"imag",
+				"image"
+			],
+			[
+				"so",
+				"socialImage"
+			],
+			[
+				"social",
+				"socialDescr"
+			],
+			[
+				"share",
+				"share_count"
+			],
+			[
+				"sts",
+				"statsUrl"
+			],
+			[
+				"roo",
+				"rootScope"
+			],
+			[
+				"soc",
+				"socialConfig"
+			],
+			[
+				"socialC",
+				"socialConfig"
+			],
+			[
+				"likes",
+				"likesCount"
+			],
+			[
+				"vk",
+				"vkAppId"
+			],
+			[
+				"like",
+				"likesCount"
+			],
+			[
+				"get",
+				"getLikes"
+			],
+			[
+				"fb",
+				"fbLikes"
+			],
+			[
+				"store",
+				"storedCb"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"filter",
+				"filterSlagsArray"
+			],
+			[
+				"cap",
+				"captchaSrc"
+			],
+			[
+				"p",
+				"progress"
+			],
+			[
+				"b-fee",
+				"b-feedback__shader_title"
+			],
+			[
+				"se",
+				"serializeObj"
+			],
+			[
+				"b-fe",
+				"b-feedback"
+			],
+			[
+				"form",
+				"formStatuses"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"fe",
+				"feedback"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"uplo",
+				"uploadMethod"
+			],
+			[
+				"fee",
+				"feedbackForm"
+			],
+			[
+				"error",
+				"errors"
+			],
+			[
+				"regi",
+				"region"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"b-ca",
+				"b-captcha__issue"
+			],
+			[
+				"b-cat",
+				"b-captcha__action"
+			],
+			[
+				"b-",
+				"b-dropdown"
+			],
+			[
+				"flow",
+				"flowObj"
+			],
+			[
+				"feed",
+				"feedbackQuery"
+			],
+			[
+				"file",
+				"files"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"b-med",
+				"b-media__attach"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"feedbackC",
+				"feedbackClick"
+			],
+			[
+				"M",
+				"messagesForm"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"ge",
+				"getSrc"
+			],
+			[
+				"borde",
+				"border-left"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wi",
+				"with-hint"
+			],
+			[
+				"my",
+				"myModuleNG"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"b-medi",
+				"b-media__description"
+			],
+			[
+				"b-me",
+				"b-media"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"b",
+				"b-dropdown"
+			],
+			[
+				"b-ban",
+				"b-banner_bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"src",
+				"srcElement"
+			],
+			[
+				"slie",
+				"slidesCount"
+			],
+			[
+				"slid",
+				"slidesCount"
+			],
+			[
+				"pa",
+				"parameters"
+			],
+			[
+				"res",
+				"resizeSlider"
+			],
+			[
+				"dia",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"white",
+				"white-space"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/package.json",
+			"settings":
+			{
+				"buffer_size": 2355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/app/components/Editor/Editor.js",
+			"settings":
+			{
+				"buffer_size": 1016,
+				"line_ending": "Unix",
+				"name": "Editor.js"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/app/styles.css",
+			"settings":
+			{
+				"buffer_size": 64,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/app/components/Lane/LaneHeader.jsx",
+			"settings":
+			{
+				"buffer_size": 1384,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/app/components/Notes/Notes.jsx",
+			"settings":
+			{
+				"buffer_size": 1062,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/app/stores/LaneStore.js",
+			"settings":
+			{
+				"buffer_size": 2486,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/app/stores/NoteStore.js",
+			"settings":
+			{
+				"buffer_size": 721,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/app/provider/setup.js",
+			"settings":
+			{
+				"buffer_size": 519,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/app/components/App.jsx",
+			"settings":
+			{
+				"buffer_size": 1255,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/node_modules/medium-editor/dist/css/medium-editor.css",
+			"settings":
+			{
+				"buffer_size": 6120,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/node_modules/medium-editor/dist/css/themes/default.css",
+			"settings":
+			{
+				"buffer_size": 2150,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 2634,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/libs/parts.js",
+			"settings":
+			{
+				"buffer_size": 5279,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/app/components/Editable/Editable.css",
+			"settings":
+			{
+				"buffer_size": 4,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/app/components/Lanes/Lanes.jsx",
+			"settings":
+			{
+				"buffer_size": 282,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/vkongar/Documents/work/react-kanban/app/components/Articles/Articles.js",
+			"settings":
+			{
+				"buffer_size": 1208,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Editor/Editor.scss",
+		"/Users/vkongar/Documents/work/react-kanban/app/styles.css",
+		"/Users/vkongar/Documents/work/react-kanban/app/stores/NoteStore.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/libs/persist.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Lanes/Lanes.css",
+		"/Users/vkongar/Documents/work/react-kanban/app/constants/itemTypes.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/actions/LaneActions.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/actions/PostActions.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Lane/Lane.css",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Lane/LaneHeader.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Lane/Lane.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Editable/Editable.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/stores/LaneStore.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Notes/Notes.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Users/Users.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Notes/Notes.css",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Articles/Articles.css",
+		"/Users/vkongar/Documents/work/react-kanban/app/provider/setup.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Note/Note.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/webpack.config.js",
+		"/Users/vkongar/Documents/work/react-kanban/package.json",
+		"/Users/vkongar/Documents/work/react-kanban/libs/parts.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Articles/Articles.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/index.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/App.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Posts/Posts.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/stores/PostStore.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Post/Post.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/sources/SearchSource.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/actions/NoteActions.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Editable/Editable.css",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Note/Note.css",
+		"/Users/vkongar/Documents/work/react-kanban/app/provider/Provider.prod.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/provider/Provider.dev.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Provider/index.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Lane.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/libs/alt.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/libs/storage.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/libs/connect.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Books.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Editable.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Note.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Notes.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/node_modules/alt/src/store/index.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Lanes/Lanes.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Provider/setup.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/components/Provider/Provider.dev.jsx",
+		"/Users/vkongar/Documents/work/react-kanban/libs/alt.js",
+		"/Users/vkongar/Documents/work/react-kanban/app/main.css",
+		"/Users/vkongar/Documents/work/kanban-app/app/index.jsx",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/components/TassHtml.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_htmls.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials/_tests.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/components/widgets/VideoWidget.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016/widgets/views/videoWidget.php",
+		"/Users/vkongar/Documents/work/dummies/instant article/addcontent_admin_text.html",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/components/widgets/views/pollWidget/pollWidget.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/models/PollsTests.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_article_video.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/components/widgets/TestsWidget.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_rutv.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_special.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_templateview.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_theme.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_top_official.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_youtube.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_videoBlock.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_tests.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_additional.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_article_slideshow.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_card.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_opinion.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_history.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_quote.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_gallery.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_interview.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_infographic.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_article_photo.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_photo.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials/_history.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/components/widgets/views/videoWidget.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials/_videoBlock.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_dynamicinfographics.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_doublephoto.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/components/widgets/views/pollWidget/_questions.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/polls/_questions.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_poll.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_photoZoom.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/admin/components/AdditionalContentWidget.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/messages/en/views.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/render_partials_instant/_audioBlock.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/amp/view.php",
+		"/Users/vkongar/Documents/work/dummies/instant article/addcontent.html",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/opinions/views/layouts/main.php",
+		"/Users/vkongar/Documents/work/tass-main/main/js/common/mainDirect.js",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/widgets/views/socialWidget.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/components/widgets/views/datesPopupWidget.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/widgets/SocialWidget.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/tests/test_view.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/news/view2.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/opinions/views/default/view.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/components/constants/ExportType.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/models/TestsSocial.php",
+		"/Users/vkongar/Documents/work/tass-main/main/js/common/socialWidget.js",
+		"/Users/vkongar/Documents/work/tass-main/main/css/tests.css",
+		"/Users/vkongar/Documents/work/tass-main/main/js/common/tass_tests.js",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/tests/_result_form.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/longread/views/partials/_social.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/common/footer_js.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/config/rules_projects.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/timeline/views/events/_socials.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/views/layouts/contents.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/projects/modules/hermitage250/views/layouts/hermitage250.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/projects/modules/hermitage250/views/default/resultpage.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/opinions/views/layouts/contents.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/opinions/views/interviews/view.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/opinions/views/layouts/main2.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/models/Articles.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/timeline/views/layouts/default.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/projects/modules/wc2014/views/news/details/socials.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/projects/modules/victoryfaces/views/sharevictory/share.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/projects/modules/putinhistory/config/main.php",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/components/SocialComponent.php",
+		"/Users/vkongar/Documents/work/tass-main/main/css/layout.css",
+		"/Users/vkongar/Documents/work/tass-main/main/js/common/tass.js",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/models/Tests.php",
+		"/Users/vkongar/Documents/work/tass-main/main/css/mobile.css",
+		"/Users/vkongar/Documents/work/tass-main/main/protected/modules/push/assets/js/pushNotificationController.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.*",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.css",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.css",
+			"*.js",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.css",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/admin",
+			"*.js,/Users/vkongar/Documents/work/tass-main/main/protected/modules/admin",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.*",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.styl",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"*.php",
+			"*.styl",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"*.php",
+			"*.styl",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"*.php",
+			"*.styl",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.styl",
+			"*.style",
+			"*.php",
+			"*.styl",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016//*.php",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016 *.php",
+			"*.php /Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"*.php;/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"*.styl",
+			"*.js",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.php,/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"*.php;/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"*.php",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/longread",
+			"*.php",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.styl",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"*.styl",
+			"*.php",
+			"*.styl",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"*.styl",
+			"/Users/vkongar/Documents/work/tass-main/main/protected/modules/pmef2016",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.*",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.styl",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"onEdit",
+			"setState",
+			"NoteStore",
+			"PostActions",
+			"addLane",
+			"ul",
+			"setupCSS",
+			"test",
+			"sass",
+			"styles.css",
+			"MEditor",
+			"users",
+			"uuid",
+			"redux",
+			"port",
+			"serv",
+			"user",
+			"users",
+			"setState",
+			"classnames",
+			"super",
+			"Edit",
+			"NoteAct",
+			"LaneStore",
+			"Locations",
+			"NoteStore",
+			"Lane",
+			"onLaneClick",
+			"FinalSt",
+			"render",
+			"lanes",
+			"border",
+			"task",
+			"editNote",
+			"editing",
+			"onDelete",
+			"SearchSource",
+			"not editing",
+			"new Store",
+			"editing",
+			"styles",
+			"css",
+			"'],\n",
+			"style",
+			"extra",
+			"css",
+			"ExtractTextPlugin",
+			"PATHS.sty",
+			"PATH",
+			"loader",
+			"Provider",
+			"loader",
+			"setupCSS",
+			"config",
+			"connect",
+			"kanban",
+			"kanban-app",
+			"tass24.dev",
+			"192.168.25.62",
+			"tass24.dev",
+			"192.168.25.62",
+			"tass24.dev",
+			"tass09.dev",
+			"tass24.dev",
+			"192.168.25.62",
+			"amp",
+			"192.168.25.62",
+			"tass24.dev",
+			"preg",
+			"tass09.dev",
+			"tass24.dev",
+			"192.168.25.62",
+			" border: 3px dashed red",
+			"192.168.25.62",
+			"tass24.dev",
+			"tass09.dev",
+			"tass24.dev",
+			"192.168.25.62",
+			"tass24.dev",
+			"192.168.25.62",
+			"tass24.dev",
+			"192.168.25.62",
+			"tass24.dev",
+			"tass09.dev",
+			"tass24.dev",
+			"192.168.25.62",
+			"tass24.dev",
+			"tass09.dev",
+			"tass24.dev",
+			"192.168.25.62",
+			"tass24.dev",
+			"tass09.dev",
+			"tass24.dev",
+			"192.168.25.62",
+			"tass24.dev",
+			"tass09.dev",
+			"tass24.dev",
+			"192.168.25.62",
+			"tass24.dev",
+			"tass09.dev",
+			"192.168.25.62",
+			"tass09.dev",
+			"tass24.dev",
+			"tass09.dev",
+			"192.168.25.62",
+			"tass09.dev",
+			"tass24.dev",
+			"imgTag",
+			"extraClasses",
+			"$photoWi",
+			"criter",
+			"tass24.dev",
+			"tass09.dev",
+			"192.168.25.62",
+			"criter",
+			"192.168.25.62",
+			"tass09.dev",
+			"tass24.dev",
+			"tass09.dev",
+			"tass24.dev",
+			"192.168.25.62",
+			"tass24.dev",
+			"tass09.dev",
+			"tass24.dev",
+			"192.168.25.62",
+			"blockquote",
+			"192.168.25.62",
+			"tass24.dev"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"MediumEditor",
+			"article",
+			"articles",
+			"Posts",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"cdn1.tass.ru",
+			"tass.ru",
+			"http://",
+			"tass.ru",
+			"http://",
+			"cdn1.tass.ru",
+			"'sd'",
+			"cdn1.tass.ru",
+			"http://tass.ru/mezhdunarodnaya-panorama/3440071",
+			"http://",
+			"http://tass.ru/",
+			"http://tass.ru",
+			"tass.ru",
+			"http://",
+			"tass.ru",
+			"http://tass.ru/mezhdunarodnaya-panorama/3440071",
+			"cdn1.tass.ru",
+			"http://tass.ru/mezhdunarodnaya-panorama/3440071",
+			"cdn1.tass.ru",
+			"http://tass.ru/mezhdunarodnaya-panorama/3440071",
+			"cdn1.tass.ru",
+			"http://tass.ru/mezhdunarodnaya-panorama/3440071",
+			"cdn1.tass.ru",
+			"---- $2 -----",
+			"$2",
+			"$1",
+			"+++ $1 +++",
+			"+++$1+++",
+			"    ",
+			".social-icons__icon_",
+			"\"",
+			" style=\"max-width:200px;",
+			"telegram.org",
+			"style=\"max-width:300px;",
+			"    ",
+			" style=\"max-width:300px;",
+			"https://telegram.me/",
+			" style=\"padding: 5px; text-decoration: none;\">",
+			" width=\"28\" height=\"28\"",
+			"Helvetica",
+			"30px",
+			"%5D",
+			"%5B",
+			"getCaptcha",
+			"",
+			"\"",
+			".MessagesForm.",
+			"<span class=\"error-desc\"",
+			"<div class=\"hint-button\">",
+			"5px 5px 30px rgba(0, 0, 0, .25)",
+			"mainModuleNG",
+			"textarea",
+			"src=\"http://tass.ru/js/",
+			"\"$1\"",
+			"",
+			"<$1h2>",
+			"<$1>",
+			"some text...",
+			"href=\"http://tass.ru/",
+			"$1",
+			"",
+			"<figcaption class=\"caption\">",
+			"<span class=\"credit\">",
+			"</span>",
+			"<figcaption><span class=\"description\">",
+			"$1    <p>",
+			"            <img",
+			"            <figcaption>",
+			"    </header>",
+			"        </figure>",
+			"        <figure>",
+			"$1",
+			"",
+			"tass.ru",
+			"source",
+			"$1$1==============================$1$1",
+			"",
+			"$1==============================$1",
+			" class=\"legend_list\" ng-click=\"scrollToBlock('[data-target=sliderWithText]')\"",
+			"materials",
+			"'infographicsWidget.InfographicsWidget','historyWidget.HistoryWidget',",
+			"20years",
+			"fill=\"#7DBFF5\" class=\"lake\"",
+			"Норский",
+			"video-link-block"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/vkongar/Documents/work/react-kanban/package.json",
+					"settings":
+					{
+						"buffer_size": 2355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2019,
+								2019
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 554.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/vkongar/Documents/work/react-kanban/app/components/Editor/Editor.js",
+					"settings":
+					{
+						"buffer_size": 1016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Editor.js",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 69.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/vkongar/Documents/work/react-kanban/app/styles.css",
+					"settings":
+					{
+						"buffer_size": 64,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/vkongar/Documents/work/react-kanban/app/components/Lane/LaneHeader.jsx",
+					"settings":
+					{
+						"buffer_size": 1384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								492,
+								492
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 24.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/vkongar/Documents/work/react-kanban/app/components/Notes/Notes.jsx",
+					"settings":
+					{
+						"buffer_size": 1062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								812,
+								812
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/vkongar/Documents/work/react-kanban/app/stores/LaneStore.js",
+					"settings":
+					{
+						"buffer_size": 2486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/vkongar/Documents/work/react-kanban/app/stores/NoteStore.js",
+					"settings":
+					{
+						"buffer_size": 721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/vkongar/Documents/work/react-kanban/app/provider/setup.js",
+					"settings":
+					{
+						"buffer_size": 519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/vkongar/Documents/work/react-kanban/app/components/App.jsx",
+					"settings":
+					{
+						"buffer_size": 1255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								613,
+								613
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 83.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/vkongar/Documents/work/react-kanban/node_modules/medium-editor/dist/css/medium-editor.css",
+					"settings":
+					{
+						"buffer_size": 6120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								6120
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/vkongar/Documents/work/react-kanban/node_modules/medium-editor/dist/css/themes/default.css",
+					"settings":
+					{
+						"buffer_size": 2150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								2150
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/vkongar/Documents/work/react-kanban/webpack.config.js",
+					"settings":
+					{
+						"buffer_size": 2634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2306,
+								2306
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1169.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/vkongar/Documents/work/react-kanban/libs/parts.js",
+					"settings":
+					{
+						"buffer_size": 5279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2977,
+								2977
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1863.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/vkongar/Documents/work/react-kanban/app/components/Editable/Editable.css",
+					"settings":
+					{
+						"buffer_size": 4,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/vkongar/Documents/work/react-kanban/app/components/Lanes/Lanes.jsx",
+					"settings":
+					{
+						"buffer_size": 282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/Users/vkongar/Documents/work/react-kanban/app/components/Articles/Articles.js",
+					"settings":
+					{
+						"buffer_size": 1208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1012,
+								1012
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"parts",
+				"libs/parts.js"
+			],
+			[
+				"webpa",
+				"webpack.config.js"
+			],
+			[
+				"medium-edi",
+				"node_modules/medium-editor/dist/css/medium-editor.css"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"posts",
+				"app/components/Posts/Posts.jsx"
+			],
+			[
+				"app.js",
+				"app/components/App.jsx"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"web",
+				"webpack.config.js"
+			],
+			[
+				"amp",
+				"protected/controllers/AmpController.php"
+			],
+			[
+				"tassht",
+				"protected/components/TassHtml.php"
+			],
+			[
+				"arti",
+				"protected/models/Articles.php"
+			],
+			[
+				"articles",
+				"protected/models/Articles.php"
+			],
+			[
+				"instant",
+				"protected/modules/export/components/Export/Getter/InstantArticlesRssGetter.php"
+			],
+			[
+				"instantart",
+				"protected/modules/export/components/Export/Getter/InstantArticlesRssGetter.php"
+			],
+			[
+				"videowidget",
+				"protected/components/widgets/views/videoWidget.php"
+			],
+			[
+				"artic",
+				"protected/models/Articles.php"
+			],
+			[
+				"pollwi",
+				"protected/components/widgets/views/pollWidget/pollWidget.php"
+			],
+			[
+				"poll",
+				"protected/models/PollsTests.php"
+			],
+			[
+				"polls",
+				"protected/models/PollsTests.php"
+			],
+			[
+				"pollwid",
+				"protected/components/widgets/views/pollWidget/pollWidget.php"
+			],
+			[
+				"testswid",
+				"protected/components/widgets/TestsWidget.php"
+			],
+			[
+				"_article_pho",
+				"protected/views/common/render_partials_instant/_article_photo.php"
+			],
+			[
+				"rssart",
+				"protected/modules/export/components/Export/Getter/RssArticlesGetter.php"
+			],
+			[
+				"instantarticle",
+				"protected/modules/export/components/Export/Getter/InstantArticlesRssGetter.php"
+			],
+			[
+				"test",
+				"css/tests.css"
+			],
+			[
+				"articl",
+				"protected/models/Articles.php"
+			],
+			[
+				"main.php",
+				"protected/modules/opinions/views/layouts/main.php"
+			],
+			[
+				"_socia",
+				"protected/modules/timeline/views/events/_socials.php"
+			],
+			[
+				"maindire",
+				"js/common/mainDirect.js"
+			],
+			[
+				"footer_js",
+				"protected/views/common/footer_js.php"
+			],
+			[
+				"socialbutton",
+				"protected/components/widgets/views/socialButtonsWidget.php"
+			],
+			[
+				"pushnotifi",
+				"protected/modules/push/assets/js/pushNotificationController.js"
+			],
+			[
+				"mobil",
+				"css/mobile.css"
+			],
+			[
+				"testso",
+				"protected/models/TestsSocial.php"
+			],
+			[
+				"tass.js",
+				"js/common/tass.js"
+			],
+			[
+				"tass.ru",
+				"protected/modules/admin/assets/timetables/js/jquery-ui-timepicker-addon.RU.js"
+			],
+			[
+				"maindirec",
+				"js/common/mainDirect.js"
+			],
+			[
+				"lay",
+				"css/layout.css"
+			],
+			[
+				"eoauth",
+				"protected/extensions/eauth/EOAuth2Service.php"
+			],
+			[
+				"customvk",
+				"protected/extensions/eauth/custom_services/CustomVKontakteService.php"
+			],
+			[
+				"token",
+				"tokensearchres.txt"
+			],
+			[
+				"sear",
+				"searchres.text"
+			],
+			[
+				"main_ru",
+				"protected/config/main_ru.php"
+			],
+			[
+				"footer",
+				"protected/views/common/footer_js.php"
+			],
+			[
+				"layout.cs",
+				"css/layout.css"
+			],
+			[
+				"maindir",
+				"js/common/mainDirect.js"
+			],
+			[
+				"vkontakte.svg",
+				"images/social/vkontakte.svg"
+			],
+			[
+				"sect",
+				"protected/views/news/section.php"
+			],
+			[
+				"controller",
+				"protected/controllers/NewsController.php"
+			],
+			[
+				"head",
+				"protected/views/common/head.php"
+			],
+			[
+				"cwidget",
+				"protected/controllers/WidgetsController.php"
+			],
+			[
+				"social",
+				"protected/modules/pmef2016/widgets/SocialWidget.php"
+			],
+			[
+				"layou",
+				"css/layout.css"
+			],
+			[
+				"feed",
+				"static/feedback-form/feedback.js"
+			],
+			[
+				"view.php",
+				"protected/views/amp/view.php"
+			],
+			[
+				"messagefo",
+				"protected/models/MessagesForm.php"
+			],
+			[
+				"messagecon",
+				"protected/modules/tsp/controllers/MessageController.php"
+			],
+			[
+				"messagecontr",
+				"protected/modules/tsp/controllers/MessageController.php"
+			],
+			[
+				"messageco",
+				"protected/modules/tsp/controllers/MessageController.php"
+			],
+			[
+				"messagefor",
+				"protected/models/MessagesForm.php"
+			],
+			[
+				"providerupl",
+				"protected/components/StorageProviderUploader.php"
+			],
+			[
+				"messa",
+				"protected/modules/tsp/controllers/MessageController.php"
+			],
+			[
+				"messagesfo",
+				"protected/models/MessagesForm.php"
+			],
+			[
+				"messagecontro",
+				"protected/modules/tsp/controllers/MessageController.php"
+			],
+			[
+				"message",
+				"protected/modules/tsp/controllers/MessageController.php"
+			],
+			[
+				"ng-flow",
+				"js/ng-flow-standalone.min.js"
+			],
+			[
+				"head.p",
+				"protected/views/common/head.php"
+			],
+			[
+				"messagecont",
+				"protected/modules/tsp/controllers/MessageController.php"
+			],
+			[
+				"careercon",
+				"protected/modules/projects/modules/career/assets/js/careerController.js"
+			],
+			[
+				"index-ad",
+				"protected/modules/longread/assets/js/index-admin.js"
+			],
+			[
+				"dfp",
+				"js/common/dfpInAngular.js"
+			],
+			[
+				"textbroa",
+				"js/common/textBroadcastController.js"
+			],
+			[
+				"mediawidget.p",
+				"protected/components/views/contentList/mediaWidgetList.php"
+			],
+			[
+				"adsw",
+				"protected/components/widgets/views/adsWidget.php"
+			],
+			[
+				"adfox",
+				"js/adfox.asyn.code.ver3.js"
+			],
+			[
+				"lentaw",
+				"protected/components/widgets/views/lentaWidget.php"
+			],
+			[
+				"foun",
+				"found.txt"
+			],
+			[
+				"quote.ph",
+				"protected/views/common/render_partials/_quote.php"
+			],
+			[
+				"play.sv",
+				"protected/modules/pmef2016/assets/img/play.svg"
+			],
+			[
+				"pmef201",
+				"protected/modules/pmef2016/components/Pmef2016ListView.php"
+			],
+			[
+				"url",
+				"protected/components/UrlRule.php"
+			],
+			[
+				"_head",
+				"protected/modules/pmef2016/views/layouts/_head.php"
+			],
+			[
+				"branding.ph",
+				"protected/modules/pmef2016/views/partials/banners/branding.php"
+			],
+			[
+				"secttionshe",
+				"protected/modules/pmef2016/components/SectionsHelper.php"
+			],
+			[
+				"contentwid",
+				"protected/modules/pmef2016/widgets/contentWidget/ContentWidget.php"
+			],
+			[
+				"sectionhe",
+				"protected/modules/pmef2016/components/SectionsHelper.php"
+			],
+			[
+				"pmef",
+				"protected/modules/pmef2016/components/Pmef2016Controller.php"
+			],
+			[
+				"sectionsh",
+				"protected/modules/pmef2016/components/SectionsHelper.php"
+			],
+			[
+				"socia",
+				"protected/modules/pmef2016/widgets/SocialWidget.php"
+			],
+			[
+				"navigationwi",
+				"protected/modules/pmef2016/widgets/navigationWidget/views/templates/default.php"
+			],
+			[
+				"navigationw",
+				"protected/modules/pmef2016/widgets/navigationWidget/views/templates/default.php"
+			],
+			[
+				"sections.p",
+				"protected/models/Sections.php"
+			],
+			[
+				"sectioncon",
+				"protected/modules/pmef2016/controllers/SectionsController.php"
+			],
+			[
+				"sectionshe",
+				"protected/modules/pmef2016/components/SectionsHelper.php"
+			],
+			[
+				"piefin",
+				"protected/models/PiefIndex.php"
+			],
+			[
+				"pmef2",
+				"protected/modules/pmef2016/components/Pmef2016Widget.php"
+			],
+			[
+				"rul",
+				"protected/config/rules.php"
+			],
+			[
+				"header",
+				"protected/modules/pmef2016/widgets/views/headerWidget.php"
+			],
+			[
+				"select.js",
+				"protected/modules/pmef2016/assets/node_modules/coffee-script/node_modules/JSONSelect/src/jsonselect.js"
+			],
+			[
+				"select",
+				"js/jsforAngular/selectize/selectize.default.css"
+			],
+			[
+				"ui-se",
+				"js/jsforAngular/ui-select/custom.select.css"
+			],
+			[
+				"sectionhel",
+				"protected/modules/pmef2016/components/SectionsHelper.php"
+			],
+			[
+				"pmef2016widget",
+				"protected/modules/pmef2016/components/Pmef2016Widget.php"
+			],
+			[
+				"journa",
+				"protected/modules/pmef2016/widgets/JournalWidget.php"
+			],
+			[
+				"pagination",
+				"protected/modules/pmef2016/widgets/paginationWidget/PaginationWidget.php"
+			],
+			[
+				"left_arr",
+				"protected/modules/pmef2016/assets/img/icons/left_arrow.svg"
+			],
+			[
+				"arr",
+				"fonts/icontass/icons_svg/arrow_left.svg"
+			],
+			[
+				"arrow_le",
+				"fonts/icontass/icons_svg/arrow_left.svg"
+			],
+			[
+				"menuwi",
+				"protected/modules/pmef2016/widgets/MenuWidget.php"
+			],
+			[
+				"menuwidg",
+				"protected/modules/pmef2016/widgets/views/menuWidget.php"
+			],
+			[
+				"navigat",
+				"protected/modules/pmef2016/widgets/navigationWidget/NavigationWidget.php"
+			],
+			[
+				"gallerys",
+				"protected/components/widgets/GalleryShowWidget.php"
+			],
+			[
+				"_head.",
+				"protected/modules/pmef2016/views/layouts/_head.php"
+			],
+			[
+				"sectionshelp",
+				"protected/modules/pmef2016/components/SectionsHelper.php"
+			],
+			[
+				"photo",
+				"protected/models/Photos.php"
+			],
+			[
+				"_slide",
+				"protected/modules/pmef2016/views/news/_slider_photo.php"
+			],
+			[
+				"result.php",
+				"protected/modules/pmef2016/views/news/result.php"
+			],
+			[
+				"_articl",
+				"protected/views/common/render_partials_pief2016/_article_slideshow.php"
+			],
+			[
+				"publica",
+				"protected/models/Publications.php"
+			],
+			[
+				"headerw",
+				"protected/components/widgets/views/headerWidget.php"
+			],
+			[
+				"angular-df",
+				"js/common/angular-dfp.js"
+			],
+			[
+				"dfpa",
+				"js/common/dfpInAngular.js"
+			],
+			[
+				"photogalle",
+				"protected/modules/pmef2016/widgets/photoGalleryWidget/views/photoGalleryWidget.php"
+			],
+			[
+				"_slider",
+				"protected/modules/pmef2016/views/news/_slider_photo.php"
+			],
+			[
+				"newscontr",
+				"protected/modules/pmef2016/controllers/NewsController.php"
+			],
+			[
+				"head.ph",
+				"protected/components/widgets/views/headerWidget.php"
+			],
+			[
+				"head.php",
+				"protected/views/common/head.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}

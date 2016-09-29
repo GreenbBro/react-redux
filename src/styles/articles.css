@@ -1,0 +1,17 @@
+.articles {
+    display: table;
+}
+.article {
+    display: table-row;
+    background: #f0f0f0;
+}
+.header {
+    font-weight: bold;
+}
+.article:hover {
+    background: #fff;
+}
+.article > div {
+    display: table-cell;
+    padding: 10px;
+}

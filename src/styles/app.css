@@ -1,0 +1,13 @@
+body {
+    background: #fff;
+    font-family: Helvetica, sans-serif;
+}
+body * {
+    font-size: 14px;
+}
+.filterForm form {
+    display: table;
+}
+.filterForm form div {
+
+}
